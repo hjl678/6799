@@ -37,4 +37,4 @@
 四、注意事项与建议
 虽然网上有大量AV资源，但建议用户注意网络安全，避免下载来源不明的视频或点击不可信广告。使用隐私浏览器、广告拦截工具，可有效提升观影体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/hjl678/6799 ）</span>
